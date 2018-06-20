@@ -1,0 +1,11 @@
+{
+    "name": "vbot/msxiaoice",
+    "description": "vbot 小冰",
+    "authors": [
+        {
+            "name": "Y",
+            "email": "umeu2016@163.com"
+        }
+    ],
+    "require": {}
+}
