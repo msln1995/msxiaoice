@@ -21,7 +21,7 @@ class Msxiaoice extends AbstractMessageHandler
     public function register()
     {
         $default_config = [
-            'status'        => true,
+            'status'        => false,
             'readurl'       => 'http://m.weibo.cn/msg/messages?uid=5175429989&page=1',
             'SUB'           => 'SUB=************',
             'sendurl'       => 'https://weibo.cn/msg/do/post?st=ca7727',

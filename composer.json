@@ -7,7 +7,9 @@
             "email": "umeu2016@163.com"
         }
     ],
-    "require": {},
+    "require-dev": {
+        "hanson/vbot": "^2.0.1"
+    },
     "autoload": {
         "psr-4": {
             "Vbot\\Msxiaoice\\": "src/"
