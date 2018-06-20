@@ -7,5 +7,10 @@
             "email": "umeu2016@163.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Vbot\\Msxiaoice\\": "src/"
+        }
+    }
 }
